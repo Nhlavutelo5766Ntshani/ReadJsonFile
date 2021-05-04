@@ -1,0 +1,10 @@
+C:\Users\Helton\source\repos\ReadJSONfile\ReadJSONfile\bin\Debug\ReadJSONfile.exe.config
+C:\Users\Helton\source\repos\ReadJSONfile\ReadJSONfile\bin\Debug\ReadJSONfile.exe
+C:\Users\Helton\source\repos\ReadJSONfile\ReadJSONfile\bin\Debug\ReadJSONfile.pdb
+C:\Users\Helton\source\repos\ReadJSONfile\ReadJSONfile\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Helton\source\repos\ReadJSONfile\ReadJSONfile\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Helton\source\repos\ReadJSONfile\ReadJSONfile\obj\Debug\ReadJSONfile.csprojAssemblyReference.cache
+C:\Users\Helton\source\repos\ReadJSONfile\ReadJSONfile\obj\Debug\ReadJSONfile.csproj.CoreCompileInputs.cache
+C:\Users\Helton\source\repos\ReadJSONfile\ReadJSONfile\obj\Debug\ReadJSONfile.csproj.CopyComplete
+C:\Users\Helton\source\repos\ReadJSONfile\ReadJSONfile\obj\Debug\ReadJSONfile.exe
+C:\Users\Helton\source\repos\ReadJSONfile\ReadJSONfile\obj\Debug\ReadJSONfile.pdb
